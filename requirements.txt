@@ -1,0 +1,8 @@
+akshare>=1.14.0
+mplfinance>=0.12.10b0
+matplotlib>=3.7.0
+deap>=1.4.1
+pyyaml>=6.0
+PyQt5>=5.15.0
+pandas>=2.0.0
+numpy>=1.24.0
